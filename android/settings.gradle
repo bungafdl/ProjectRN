@@ -1,0 +1,3 @@
+rootProject.name = 'bfproject'
+
+include ':app'
