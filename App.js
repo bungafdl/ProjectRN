@@ -21,8 +21,6 @@ export default class App extends React.Component {
     return (
       <View style={styles.container}>
       <Judul title="Biodata"/>
-      <Judul title="Login"/>
-      <Judul title="Nambah"/>
         <Text style={styles.welcome}>Welcome to React Native!</Text>
         <Text style={styles.instructions}>Nama : Bunga Fadhillah</Text>
         <Text style={styles.instructions}>Kelas : XI RPL 3</Text>
